@@ -24,11 +24,9 @@
  * Nimi: Konsta Tauriainen
  * Opiskelijanumero: k430829
  * kt430829 https://course-gitlab.tuni.fi/comp.cs.110-ohj-2_2021-SYKSY/kt430829.git
- * E-Mail: konsta.tauriainen@tuni.fi
- * ja
+ 
  * Nimi: Aaro Tuohi
- * K�?ytt�?j�?tunnus msaatu
- * Opiskelijanumero: 050280618
+ 
  * S�?hk�?posti: aaro.tuohi@tuni.fi
  * Huomioita ohjelmasta ja sen toteutuksesta:
  *
